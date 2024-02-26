@@ -1,0 +1,2 @@
+# alljurnal
+jurnal
